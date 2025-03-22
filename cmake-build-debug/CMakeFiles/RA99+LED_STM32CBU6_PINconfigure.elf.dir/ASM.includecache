@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/engineersoftware/STM32_project/RA99+LED_STM32CBU6_PINconfigure/Core/Startup/startup_stm32g431cbux.s
+
