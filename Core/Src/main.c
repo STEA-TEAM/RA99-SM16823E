@@ -27,7 +27,8 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "argb_tx.h"
+#include "Unipolar_zeroing_code_communication.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -48,7 +49,7 @@
 /* Private variables ---------------------------------------------------------*/
 
 /* USER CODE BEGIN PV */
-
+int8_single_chain *now_data;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -122,7 +123,7 @@ int main(void)
   argb_set_ex_data(argb1,current_gain);
 
   create_int8_single_chain_loop(ARR_data,ARR_data_len,&ARR_data_head,&ARR_data_tail);
-  int8_single_chain *now_data=ARR_data_head;
+    now_data=ARR_data_head;
   htim7.Instance->ARR=now_data->data;
   HAL_TIM_Base_Start_IT(&htim7);
 

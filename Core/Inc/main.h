@@ -31,8 +31,7 @@ extern "C" {
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-#include "Unipolar_zeroing_code_communication.h"
-#include "argb_tx.h"
+
 #include "link_list.h"
 #include "argb_common.h"
 #include "argb_led.h"
