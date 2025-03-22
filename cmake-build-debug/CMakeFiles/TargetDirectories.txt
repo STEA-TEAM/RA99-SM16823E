@@ -1,3 +1,0 @@
-F:/engineersoftware/STM32_project/RA99+LED_STM32CBU6_PINconfigure/cmake-build-debug/CMakeFiles/RA99+LED_STM32CBU6_PINconfigure.elf.dir
-F:/engineersoftware/STM32_project/RA99+LED_STM32CBU6_PINconfigure/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/engineersoftware/STM32_project/RA99+LED_STM32CBU6_PINconfigure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
