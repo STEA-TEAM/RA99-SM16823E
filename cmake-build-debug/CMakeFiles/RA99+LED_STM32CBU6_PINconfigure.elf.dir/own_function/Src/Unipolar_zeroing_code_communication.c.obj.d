@@ -1,7 +1,6 @@
 CMakeFiles/RA99+LED_STM32CBU6_PINconfigure.elf.dir/own_function/Src/Unipolar_zeroing_code_communication.c.obj: \
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\own_function\Src\Unipolar_zeroing_code_communication.c \
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\own_function\Inc/Unipolar_zeroing_code_communication.h \
- F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\own_function\Inc/Unipolar_zeroing_code_communication.h \
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\Core\Inc/main.h \
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\Drivers\STM32G4xx_HAL_Driver\Inc/stm32g4xx_hal.h \
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\Core\Inc/stm32g4xx_hal_conf.h \
@@ -44,6 +43,7 @@ CMakeFiles/RA99+LED_STM32CBU6_PINconfigure.elf.dir/own_function/Src/Unipolar_zer
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\Drivers\STM32G4xx_HAL_Driver\Inc/stm32g4xx_hal_uart.h \
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\Drivers\STM32G4xx_HAL_Driver\Inc/stm32g4xx_hal_uart_ex.h \
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\own_function\Inc/argb_tx.h \
+ F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\own_function\Inc/Unipolar_zeroing_code_communication.h \
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\own_function\Inc/link_list.h \
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\own_function\Inc/link_list.h \
  c:\dev\arm-gnu-toolchain-12.2.rel1_abort\arm-none-eabi\include\stdlib.h \

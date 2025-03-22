@@ -43,7 +43,6 @@ CMakeFiles/RA99+LED_STM32CBU6_PINconfigure.elf.dir/own_function/Src/argb_tx.c.ob
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\Drivers\STM32G4xx_HAL_Driver\Inc/stm32g4xx_hal_uart.h \
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\Drivers\STM32G4xx_HAL_Driver\Inc/stm32g4xx_hal_uart_ex.h \
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\own_function\Inc/Unipolar_zeroing_code_communication.h \
- F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\own_function\Inc/Unipolar_zeroing_code_communication.h \
  c:\dev\arm-gnu-toolchain-12.2.rel1_abort\arm-none-eabi\include\math.h \
  c:\dev\arm-gnu-toolchain-12.2.rel1_abort\arm-none-eabi\include\sys\reent.h \
  c:\dev\arm-gnu-toolchain-12.2.rel1_abort\arm-none-eabi\include\_ansi.h \
@@ -69,4 +68,5 @@ CMakeFiles/RA99+LED_STM32CBU6_PINconfigure.elf.dir/own_function/Src/argb_tx.c.ob
  c:\dev\arm-gnu-toolchain-12.2.rel1_abort\lib\gcc\arm-none-eabi\12.2.1\include\stdarg.h \
  c:\dev\arm-gnu-toolchain-12.2.rel1_abort\arm-none-eabi\include\sys\stdio.h \
  F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\cafuu_code\Inc/argb_led.h \
- F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\cafuu_code\Inc/argb_common.h
+ F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\cafuu_code\Inc/argb_common.h \
+ F:\engineersoftware\STM32_project\RA99+LED_STM32CBU6_PINconfigure\own_function\Inc/Unipolar_zeroing_code_communication.h

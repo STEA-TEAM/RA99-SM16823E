@@ -6,13 +6,11 @@
 #define UNIPOLAR_ZEROING_CODE_COMMUNICATION_H
 
 /* Includes ------------------------------------------------------------------*/
-#include "Unipolar_zeroing_code_communication.h"
 #include "main.h"
 #include <math.h>
 #include <stdlib.h>
 #include <string.h>
 /* typedef ------------------------------------------------------------------*/
-struct UZCC_uint8_handel;
 typedef struct {
   uint32_t CCR_0;
   uint32_t CCR_1;
